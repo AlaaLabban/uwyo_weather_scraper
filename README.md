@@ -5,6 +5,8 @@ Python script that scrapes hourly Surface weather data from the University of Wy
 
 University of Wyoming's Surface weather Data database link: https://weather.uwyo.edu/surface/meteorogram/index.shtml
 
+note: this script was tested on OEJN station from 20150101 to 20241231 and given perfect results 
+
 ## 🌤️ Features
 
 - **Robust Data Parsing**: Handles missing values without column misalignment
